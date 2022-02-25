@@ -8,5 +8,14 @@ body{
 
 #ajanlat {
     text-align: center;
+    width: 50%;
     border-radius: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: aqua;
+}
+
+a:link, :visited, :active :hover{
+
+    
 }
